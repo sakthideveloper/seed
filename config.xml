@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.seedbh.seed" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Seed</name>
+<widget id="com.seedbh.seed" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Seed LMS</name>
     <description>Learn Anywhere. Learn Anytime.</description>
     <author email="info@seedbh.com" href="https://seedbh.com/">Learn Anywhere. Learn Anytime.</author>
     <content src="index.html" />
